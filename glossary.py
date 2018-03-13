@@ -16,3 +16,10 @@ programming_terms = {
 for key, value in programming_terms.items():
     print("\nKey: " + key.title())
     print("Value: " + value)
+
+print "\n"
+
+# boss-mode version
+
+for k, v in programming_terms.items():
+    print '\n{}: {}'.format(k.title(), v)
