@@ -1,4 +1,3 @@
-import json
 
 programming_terms = {
     'variable': "a variable is a value that can change, depending on conditions or on information passed "
